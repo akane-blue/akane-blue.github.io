@@ -39,6 +39,10 @@ h6 {
     background-size: cover;
 }
 
+.intro-header-shop {
+  background: url(../img/cofe.jpg) no-repeat center center !important;
+}
+
 .intro-message {
     position: relative;
     padding-top: 20%;
