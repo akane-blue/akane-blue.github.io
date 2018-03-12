@@ -1,0 +1,12 @@
+﻿# akane.blue
+
+あかねどっとぶるーだよ。
+
+## License
+
+akane-blue.github.io is licensed under the MIT License.
+
+## Author
+
+- [@lindwurm](https://github.com/lindwurm)
+- [@hota@mstdn.maud.io](https://mstdn.maud.io/@hota)
