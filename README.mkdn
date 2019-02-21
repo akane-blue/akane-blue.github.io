@@ -4,7 +4,7 @@
 
 ## License
 
-akane-blue.github.io is licensed under the MIT License.
+akane-blue.github.io is licensed under the `Creative Commons Attribution 3.0 Unported`.
 
 ## Author
 
